@@ -1,0 +1,11 @@
+{
+  "name": "vtta-socke",
+  "title": "Virtual Tabletop Assets - Socket testing module",
+  "description": "Trying to bring sockets to life",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.5.6",
+  "author": "Sebastian Will",
+  "systems": ["dnd5e"],
+  "esmodules": ["src/index.js"]
+}
