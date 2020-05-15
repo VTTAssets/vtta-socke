@@ -7,5 +7,6 @@
   "compatibleCoreVersion": "0.5.6",
   "author": "Sebastian Will",
   "systems": ["dnd5e"],
-  "esmodules": ["src/index.js"]
+  "esmodules": ["src/index.js"],
+  "socket": true
 }
